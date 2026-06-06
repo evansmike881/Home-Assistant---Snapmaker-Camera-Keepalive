@@ -101,7 +101,7 @@ Locate the Moonraker token and copy it.
 It will look similar to:
 
 ```text
-IROZ3VMN4Z3XYK33ST4XADSDDTBO76RK
+IROX3VMN4Z3DYK33ST4YADSDDTBO75RD
 ```
 
 ---
