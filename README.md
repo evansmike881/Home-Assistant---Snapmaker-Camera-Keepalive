@@ -173,7 +173,7 @@ camera:
   - platform: generic
     name: Snapmaker Camera
     still_image_url: "http://PRINTER_IP/webcam/?action=snapshot"
-    stream_source: "http://PRINTER_IP/webcam/?action=stream"
+    stream_source: ""
 ```
 
 Example:
@@ -183,7 +183,7 @@ camera:
   - platform: generic
     name: Snapmaker Camera
     still_image_url: "http://192.168.4.160/webcam/?action=snapshot"
-    stream_source: "http://192.168.4.160/webcam/?action=stream"
+    stream_source: ""
 ```
 
 Restart Home Assistant after saving.
