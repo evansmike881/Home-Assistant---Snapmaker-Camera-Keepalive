@@ -119,7 +119,7 @@ Example:
 
 ```yaml
 printer_ip: "192.168.4.160"
-token: "IROZ3VMN4Z3XYK33ST4XADSDDTBO76RK"
+token: "IROX3VMN4Z3DYK33ST4YADSDDTBO75RD"
 ```
 
 Save the configuration and start the add-on.
