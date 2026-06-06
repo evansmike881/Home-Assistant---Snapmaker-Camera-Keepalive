@@ -1,0 +1,21 @@
+name: Snapmaker Camera Keepalive
+version: "1.0.0"
+slug: snapmaker_cam
+description: Keeps the Snapmaker U1 camera stream awake via Moonraker websocket
+url: https://github.com/evansmike881/Home-Assistant---Snapmaker-Camera-Keepalive
+startup: services
+boot: auto
+init: false
+host_network: true
+arch:
+  - amd64
+  - aarch64
+  - armv7
+
+options:
+  printer_ip: ""
+  token: ""
+
+schema:
+  printer_ip: str
+  token: password
